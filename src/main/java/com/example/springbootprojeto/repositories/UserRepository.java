@@ -8,3 +8,6 @@ import com.example.springbootprojeto.entities.User;
 public interface UserRepository extends JpaRepository<User, Long> {
 
 }
+
+
+

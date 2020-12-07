@@ -1,4 +1,4 @@
-package com.example.springbootprojeto.resources;
+package com.example.springbootprojeto.controller;
 
 import java.util.List;
 

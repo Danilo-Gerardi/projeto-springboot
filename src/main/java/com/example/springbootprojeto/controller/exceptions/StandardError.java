@@ -1,4 +1,4 @@
-package com.example.springbootprojeto.resources.exceptions;
+package com.example.springbootprojeto.controller.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
